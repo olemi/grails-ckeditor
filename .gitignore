@@ -6,3 +6,7 @@ target
 docs/gapi/*
 plugin.xml
 .idea/workspace.xml
+.project
+.classpath
+.settings
+target-eclipse
